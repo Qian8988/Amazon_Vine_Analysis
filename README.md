@@ -23,20 +23,20 @@ Total Number of Reviews PAID : 4781
 Total Number of Reviews UNPAID : 332395
 
 
-<img width="396" alt="1" src="https://user-images.githubusercontent.com/86527347/138576521-890b02c4-fc55-49da-ba4b-1a120be3c068.png">
-
-
+<img width="396" alt="1" src="https://user-images.githubusercontent.com/86527347/138577530-0cbafe28-c70b-45f3-a860-3a0e0128dba4.png">
 
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 The Number of 5-star Reviews Paid : 1604
 
-<img width="435" alt="2" src="https://user-images.githubusercontent.com/86527347/138576518-ef7c184a-2985-4254-a9fd-fd1cc555c242.png">
+
+<img width="435" alt="2" src="https://user-images.githubusercontent.com/86527347/138577531-3d9d029b-8774-4f57-9fdf-85c4ea2e2a4d.png">
 
 The Number of 5-star Reviews Unpaid: 168800
 
-<img width="437" alt="3" src="https://user-images.githubusercontent.com/86527347/138576519-6ef03e46-9067-48d9-8245-5231a8711ec7.png">
+
+<img width="437" alt="3" src="https://user-images.githubusercontent.com/86527347/138577532-947db65e-dce2-46dc-bb32-b069c70b4dfa.png">
 
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
@@ -45,8 +45,8 @@ Percent of 5-Star Reviews for PAID : 0.335495
 
 Percent of 5-Star Furniture Reviews from UNPAID : 0.507830
 
-<img width="531" alt="4" src="https://user-images.githubusercontent.com/86527347/138576520-00c9bacc-c020-446c-b476-c45cea4e5c04.png">
 
+<img width="477" alt="4" src="https://user-images.githubusercontent.com/86527347/138577534-8f21cb54-c0df-45bd-91a6-bd0863c05a47.png">
 
 ## Summary:  
 
