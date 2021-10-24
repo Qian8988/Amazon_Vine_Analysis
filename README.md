@@ -52,7 +52,7 @@ Percent of 5-Star Furniture Reviews from UNPAID : 0.507830
 
 There are 4781 vine reviews and 332395 of non-Vine reviews. 98.58% of the reviews are from non-Vine participants. The percentage of 5-star reviews from vine participants is 33.55% whereas the percentage of 5-star reviews from the non-Vine reviews is 50.78%. So, we cannot say there is any positivity bias for reviews in the Vine program.
 
-As for recommendations, more data needed to be collected and we need to see the spread of  reviews for each star rating and calculate mean, median, and  frequency of the reviews.
+As for recommendations, more data need to be collected and we need to see the spread of  reviews for each star rating and calculate mean, median, and  frequency of the reviews.
 
 
 
